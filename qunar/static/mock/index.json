@@ -1,0 +1,120 @@
+{
+  "ret": true,
+  "banners": [  
+      {
+        "id":1,
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg"
+      },
+      {
+        "id":2,
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg"
+      },
+      {
+        "id":3,
+        "imgUrl":"http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg"
+      }
+    ],
+  "navlis": [
+      {
+       "id":1,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/158387fe5376294f3776d01358d6b73b.png",
+        "navDesc":"景点门票"
+      },
+      {
+       "id":2,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/69e8b07cb2d438c5530aebd4c8e3abd3.png",
+        "navDesc":"一日游"
+      },
+      {
+       "id":3,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/b7a5e6b1774eda4fc9e32588f1d00c94.png",
+        "navDesc":"踏青赏花"
+      },
+      {
+         "id":4,
+          "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/5ffcd4a916f764f678263b27c1e2e00c.png",
+          "navDesc":"动植物园"
+      },
+      {
+         "id":5,
+          "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/aba25fb84648c130561afa5398d3552a.png",
+          "navDesc":"长隆动物园"
+      },
+      {
+       "id":6,
+        "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "navDesc":"城市观光"
+      },
+      {
+       "id":7,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/c4c5c620f20535ff358788a508c20921.png",
+        "navDesc":"主题乐园"
+      },
+      {
+       "id":8,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/557ba25df01d7dbf1419b095a11d1319.png",
+        "navDesc":"泡温泉"
+      },
+      {
+       "id":9,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+        "navDesc":"自然风光"
+      },
+      {
+       "id":10,
+        "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20209/59bc59a3c38261e9a3f2f991a9ce0d21.png",
+        "navDesc":"广州必游"
+      }
+  ],
+  "commentList": [
+    {
+      "id":"01",
+      "score": 5,
+      "comment":76591,
+      "price":139,
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/2009/7e/7e0ace460a447ad0a3.water.jpg_200x200_377333e5.jpg",
+      "title": "长隆欢乐世界",
+      "address":"广州长隆...",
+      "feature":"爱挑战的你怎能错过垂直过山车"  
+    },
+    {
+      "id":"02",
+      "score": 4.3,
+      "comment":1975,
+      "price":209,
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/2009/27/27c0cfa011a2eb3ba3.water.jpg_200x200_11c6e5c3.jpg",
+      "title": "长隆野生动物世界",
+      "address":"广州长隆..."
+    },
+    {
+      "id":"03",
+      "score": 4.6,
+      "comment":64676,
+      "price":84.8,
+      "imgUrl":"http://img1.qunarzz.com/sight/p0/2009/8b/8b32f46ed199fc54a3.water.jpg_200x200_ea739b23.jpg",
+      "title": "广州长隆旅游度假区",
+      "address":"番禺区",
+      "feature":"熊猫三胞胎与您共享欢乐时光"      
+    }
+   ],
+  "weekendList":[
+    {
+      "id":"01",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+      "title":"清远周边逛",
+      "desc":"人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+    },
+    {
+      "id":"02",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+      "title":"浮在海上的绿洲",
+      "desc":"南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+    },
+    {
+      "id":"03",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+      "title":"广州必打卡",
+      "desc":"感受现代与传统相融合的广州"
+    }
+  ]
+}
