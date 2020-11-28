@@ -1,0 +1,108 @@
+{
+  "ret": true,
+  "swiperList": [
+    {
+      "id": "01",
+      "imgUrl": "https://imgs.qunarzz.com/p/tts1/1809/62/b4ffcdad38db0002.jpg_750x440_02fcfe1c.jpg"
+    },
+    {
+      "id":"02",
+      "imgUrl":"https://imgs.qunarzz.com/p/tts1/1809/3f/9ac43408b2b80502.jpg_750x440_a9ef524c.jpg"
+    }
+  ],
+  "imgsList": [
+    {
+      "id":"01",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc":"景点门票"
+    },
+    {
+      "id":"02",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+      "desc":"一日游"
+    },
+    {
+      "id":"03",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+      "desc":"动植物园"
+    },
+    {
+      "id":"04",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+      "desc":"天门山公园"
+    },
+    {
+      "id":"05",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+      "desc":"张家界公园"
+    },
+    {
+      "id":"06",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+      "desc":"必看演出"
+    },
+    {
+      "id":"07",
+      "imgUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/91a810441506568937171df66f754375.png",
+      "desc":"红石林"
+    },
+    {
+      "id":"08",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc":"凤凰古城"
+    },
+    {
+      "id":"09",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+      "desc":"温泉滑雪"
+    },
+    {
+      "id":"010",
+      "imgUrl":"http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+      "desc":"玻璃桥"
+    }
+  ],
+  "commendList": [
+     {
+       "id":"01",
+       "score": 5,
+       "comment":403,
+       "price":150,
+       "imgUrl":"http://img1.qunarzz.com/sight/p0/1610/8f/8f244e6a0ac12325a3.img.jpg_200x200_a6a1cd22.jpg",
+       "title": "湘江游轮橘洲之星",
+       "address":"长沙"
+     },
+     {
+       "id":"02",
+       "score": 4.6,
+       "comment":1975,
+       "price":320,
+       "imgUrl":"http://img1.qunarzz.com/sight/p0/2004/37/378c2676e042ce1ca3.img.jpg_200x200_6e327741.jpg",
+       "title": "长沙方特东方神画",
+       "address":"宁乡县"
+     },
+     {
+       "id":"03",
+       "score": 4.3,
+       "comment":764,
+       "price":158,
+       "imgUrl":"http://img1.qunarzz.com/sight/p0/1802/f6/f699d3b082edde9fa3.img.png_200x200_d11b3e12.png",
+       "title": "三只熊滑雪场",
+       "address":"长沙县"
+     }
+   ],
+  "weekendList":[
+    {
+      "id":"01",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1505/fb/302620ed8350f8.jpg_r_640x214_25a07cb4.jpg",
+      "title":"长沙必打卡",
+      "desc":"到了长沙，一定要到这些地方走走"
+    },
+    {
+      "id":"02",
+      "imgUrl":"http://img1.qunarzz.com/sight/source/1811/88/8d3b492ebf0b16.jpg_r_640x214_7b3a281d.jpg",
+      "title":"邂逅凤凰城",
+      "desc":"凤凰古城一个古老而神秘的地方，风景秀丽，历史悠久，人杰地灵，名贤辈出，名胜古迹众多"
+    }
+  ]
+}
