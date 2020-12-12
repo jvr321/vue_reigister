@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+
+        function fn(){
+            console.log('fn函数')
+        }
+        console.log(window.fn)
+        // function chen(response){
+        //     console.log(response)
+        // }
+    </script>
+    <!-- <script src="http://localhost:3001/login?callback=chen"></script> -->
+    <!-- 
+        1.前台利用script标签中的src和传递参数callback=fn
+        2.后台接受数据，并返回函数名+后台数据
+        3.前台定义查询字符串中参数函数fn
+     -->
+   
+</body>
+</html>
